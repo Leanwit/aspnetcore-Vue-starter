@@ -22,20 +22,8 @@
                 </ul>
             </div>
         </div>
+      
     </div>
 </template>
 
-<script>
-import { routes } from '../routes'
-
-export default {
-    data() {
-        return {
-            routes
-        }
-    }
-}
-</script>
-
-<style>
-</style>
+<script src="./nav-menu.js"></script>
